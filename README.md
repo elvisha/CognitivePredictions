@@ -6,7 +6,7 @@ Dhamala E, Jamison KW, Jaywant A, Dennis S, Kuceyeski A. (2020). Integrating mul
 
 Keywords: neuroimaging, connectomics, machine learning, functional connectivity, structural connectivity, crystallised cognition, fluid cognition, cognition, prediction
 
-This implementation uses functional and structural connectivity data to predict cognitive function. 
+This implementation uses functional, structural, or hybrid connectivity data to predict cognitive scores. 
 
-Description of each file:
+Description of file
 cognitive_prediction.ipynb - Jupyter Notebook: to predict cognitive metrics from connectivity
