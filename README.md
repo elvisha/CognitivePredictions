@@ -9,5 +9,4 @@ Keywords: neuroimaging, connectomics, machine learning, functional connectivity,
 This implementation uses functional and structural connectivity data to predict cognitive function. 
 
 Description of each file:
-gaussian_resampling.m - MATLAB: to resample SC data into a Gaussian distribution
 cognitive_prediction.ipynb - Jupyter Notebook: to predict cognitive metrics from connectivity
